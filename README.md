@@ -1,11 +1,6 @@
 # Ecommerce-Sales-Analysis-Portfolio-Project-1
-# Ecommerce Sales Data Analysis Report
-
-## Overview
 
 This report presents an analysis of the ecommerce sales dataset. The objective of the project was to clean, organize, and visualize the sales data to identify business trends, performance indicators, and actionable recommendations.
-
----
 
 ## Data Summary
 
@@ -20,7 +15,6 @@ The dataset contains sales transaction records across multiple product categorie
 * **Total Sales:** 10,667,881
 * **Total Profit:** 1,844,665.21
 
----
 
 # Key Insights
 
@@ -31,8 +25,6 @@ The dataset contains sales transaction records across multiple product categorie
 * Profitability remained positive across the dataset, indicating effective pricing and operational performance.
 * Seasonal sales variations were observed across different months, highlighting periods of higher customer demand.
 
----
-
 # Recommendations
 
 * Increase inventory and marketing investment in high-performing categories such as Electronics to maximize revenue growth.
@@ -41,14 +33,11 @@ The dataset contains sales transaction records across multiple product categorie
 * Use monthly sales trends to plan seasonal promotions and optimize stock management.
 * Continue monitoring profit margins to ensure sustainable business growth and operational efficiency.
 
----
-
 # Tools Used
 
 * Python for cleaning the data
 * Power BI for visualization
 
----
 
 # Conclusion
 
